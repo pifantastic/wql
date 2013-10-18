@@ -1,0 +1,25 @@
+{
+  "name": "wql",
+  "version": "0.0.0",
+  "description": "Wizard Query Language",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "sql"
+  ],
+  "author": "Aaron Forsander",
+  "license": "WTFPL",
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "dependencies": {
+    "grunt-contrib-nodeunit": "~0.2.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-jshint": "~0.6.4"
+  }
+}
