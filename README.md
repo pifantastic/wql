@@ -1,4 +1,6 @@
-# WQL, Wizard Query Language (pronounced wickle)
+# WQL, Wizard Query Language 
+
+### (pronounced wickle)
 
 ```sql
 CONJURE * FROM table;
